@@ -1,0 +1,3 @@
+http://www.dslreports.com/forum/r19270433-C-Concatenating-a-char-into-a-string
+
+word.append(1, newLetter);
